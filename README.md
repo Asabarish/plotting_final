@@ -1,4 +1,4 @@
-# # Exp 5 Analysis and Visualization of COVID-19 Dataset using Python
+# # Exp 6 Analysis and Visualization of COVID-19 Dataset using Python
 
 Date:01.09.2026
 
